@@ -161,5 +161,7 @@ cython_debug/
 
 
 # dir
+age-detection-human-faces-18-60-years.zip
 dataset/
-.zip
+*.zip
+lightning_logs/
